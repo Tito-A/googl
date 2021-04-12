@@ -1,0 +1,74 @@
+body{
+	margin: o;
+	height: 100%;
+	width: auto;
+}
+
+
+nav {
+	display : flex;
+	justify-content: space-around;
+	width: 20%;
+	margin-left: auto;
+	padding: 2em;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+a.hover{
+	text-decoration: underline;
+
+}
+nav img{
+	height: 20px;
+
+}
+
+main{
+	width: 50%;
+	margin: 6em auto;
+	text-align: center;
+
+}
+input{
+	width: 80%;
+	padding: 8px;
+	border-radius: 20px;
+	border: 1px solid gray;
+}
+
+.buttona {
+	 margin-top: 1px;
+}
+.buttona button{
+	padding: 8px;
+	border: none;
+}
+
+footer{
+	background-color: rgb(240 236 236);
+}
+.footer-top{
+	padding: 1em;
+}
+.footer-bottom{
+	padding: 1em;
+	display: flex;
+	justify-content: space-between;
+	border-top: 
+
+}
+.left a{
+	margin-right: 2px;
+}
+.right a{
+	margin-right: 2px;
+}
+
+
+
+
+
+
+
